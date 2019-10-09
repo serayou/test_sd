@@ -1,3 +1,9 @@
+# ──────────────────────────────────────────
+# 오늘은 10월 09일
+# ──────────────────────────────────────────
+
+
+
 import paho.mqtt.client as mqtt
 import RPi.GPIO as GPIO
 import time
